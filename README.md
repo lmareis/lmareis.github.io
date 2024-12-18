@@ -1,1 +1,1 @@
-# personal_website
+This repository builds a personal webpage.
