@@ -1,0 +1,40 @@
+---
+format: html 
+---
+
+# Teaching Assistant 
+
+#### Computational Statistics
+Summer 2026
+
+#### Graphical Models in Statistics
+Summer 2025
+
+#### Seminar: Machine Learning for Sequential Decision Making
+Winter 2023
+
+#### Statistics for Business Administration 
+Summer 2020
+
+#### Analysis 1 for Physicists 
+Winter 2016
+
+
+# Master Students
+
+#### Reanalyzing the DREAM 5 data using techniques from graphical modeling
+Žiga Gartner. Summer 2026
+
+#### Graphical Dependence Modeling in Stock Market Analysis
+Darya Shtromberg. Winter 2025
+
+#### Active Learning for ML-training for Autonomous Vehicles
+Adrien Castella. Summer 2024
+
+#### Graph-Simulation Based Analysis of Causal Inference Methods on Instrumental Variables
+Qianyun Li. Summer 2023
+
+# Supervised Research Assistants
+Sarah Lumpp (2021 – 2023)
+
+Daniel Sturm (2021 – 2022)

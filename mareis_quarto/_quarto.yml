@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 5896
+    browser: true
+  render:
+    - "index.qmd"
+    - "about.qmd"
+    - "cv.qmd"
+    - "research.qmd"
+    - "teaching.qmd"
+    - "presentations.qmd"
+    - "404.qmd"
+  resources:
+    - "content/"
+    - "css"
+    - "splitkbcompare.html"
+    - "static/"
+
+website:
+  title: "Leopold Mareis"
+  description: "The personal website of Leopold Mareis"
+  #image: images/lab/john_helveston_circle.png
+ # site-url: https://www.jhelvy.com
+  favicon: favicon_blue.png
+ # repo-url: https://github.com/jhelvy/jhelvy_quarto
+  search:
+    location: navbar
+    type: overlay
+  back-to-top-navigation: false
+  navbar:
+    right:
+      - text: "Research"
+        href: research.qmd
+      - text: "Talks and Presentations"
+        href: presentations.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+  page-footer:
+    left: 
+      - text: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="images/by-nc-sa.png" alt="CC BY-NC-SA 4.0" style="height:25px; vertical-align:top;"></a> 
+    center:
+      - text: "leopold.mareis (at) tum.de"
+    right: 
+      - text: "© 2026 Leopold Mareis"
+
+format:
+  html:
+    theme: [default, css/theme.scss]
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    # This is to include fontawesome and academic icons in the headers:
+    include-in-header: "_includes/header.html"

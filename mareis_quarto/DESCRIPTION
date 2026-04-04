@@ -1,0 +1,33 @@
+Type: Website
+Title: Leopold Mareis
+Authors@R: c(
+    person(given   = "Leopold",
+           family  = "Mareis",
+           role    = c("aut", "cre", "cph"),
+           email   = "Leopold.Mareis(at)tum.de"))
+Depends: R (>= 4.0.2)
+License: CC-BY-SA
+Encoding: UTF-8
+Imports:
+    bs4cards,
+    cowplot,
+    glue,
+    gsheet,
+    here,
+    htmltools,
+    janitor,
+    kableExtra,
+    knitr,
+    markdown,
+    remotes,
+    rmarkdown,
+    roxygen2,
+    shiny,
+    shinylive,
+    surveydown,
+    tidyverse,
+    tinytable,
+    viridis,
+    xaringanExtra
+Remotes:
+    vincentarelbundock/tinytable

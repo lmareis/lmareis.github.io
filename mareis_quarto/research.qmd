@@ -1,0 +1,41 @@
+---
+format: html 
+---
+
+# Publications
+
+#### [Cost-Aware Optimized Front-Door Experimental Design](https://arxiv.org/abs/2603.22024)
+
+**Leopold Mareis**, Mathias Drton. Accepted at CLeaR 2026
+
+#### [MaRDI’s Zenodo Community for Graphical Modeling and Causal Inference](https://doi.org/10.5281/zenodo.16736173)
+
+**Leopold Mareis**, Stephan Haug, Mathias Drton
+
+#### [Low-gradient magnetic separation in Biotechnology: Parameter identification and model-guided scale up](https://www.sciencedirect.com/science/article/pii/S1383586625034331)
+
+Jan-Angelus Meyer, Jennifer Pierick, **Leopold Mareis**, Dorian Röhring, Nathalie Opilo, Georg Garnweitner, Rainer Krull
+
+#### [Optimizing Experimental Design for Causal Effect Estimation with Partial Measurements](https://link.springer.com/chapter/10.1007/978-981-97-7812-6_7)
+
+**Leopold Mareis**
+
+#### [Development and certification of clinical AI software](https://publica.fraunhofer.de/entities/publication/5002c770-388b-4fca-adfb-37f5b388bdfb)
+
+Narges Ahmidi, **Leopold Mareis**
+
+# Preprints
+
+#### [Partially Specified Causal Simulations](https://arxiv.org/abs/2309.10514)
+
+Alireza Zamanian, **Leopold Mareis**, Narges Ahmidi
+
+# Software
+
+#### Website: [Graphical Modeling and Causal Inference](https://st-mardi.quarto.pub/gmci/)
+
+**Leopold Mareis**, Stephan Haug, Mathias Drton
+
+#### Python Package: [PARCS - Partially Randomized Causal Simulator](https://fraunhoferiks.github.io/parcs/)
+
+Alireza Zamanian, **Leopold Mareis**

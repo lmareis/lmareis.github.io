@@ -1,0 +1,48 @@
+---
+format: html 
+---
+
+# Oral
+
+#### Graphical Modeling with Symbolic Algebra in OSCAR.jl
+JuliaCon 2026. Frankfurt (08/2026)
+
+#### Cost-Aware Optimized Front-Door Experimental Design
+IMS Annual Meeting. Salzburg (07/2026)
+
+#### Ontology for R language packages
+Statistical Computing 2025. Ulm (07/2025)
+
+#### Counterfactual decision support for the control of a clinical, multi-organ failure ICU machine
+Bitkom - AI & Data Summit. Berlin (08/2024)
+
+#### Graph Projections for Causal DAGs
+Doktorand:innentreffen der Stochastik. Heidelberg (08/2023)
+
+#### Estimating Causal Effects of Stent Operations
+KI-Medtech. Munich (07/2023)
+
+#### Nonparametric Causal Effect Estimation of Guideline Interventions
+ETH-UCPH-TUM Workshop. Reitenhaslach (10/2022)
+
+#### Nonparametric Causal Effect Estimation
+Doktorand:innentreffen der Stochastik. Klagenfurt (08/2022)
+
+
+# Poster
+
+#### Cost-Aware Optimized Front-Door Experimental Design
+Conference on Causal Learning and Reasoning CleAR 2026. Boston (04/2026)
+
+#### MaRDI’s Zenodo Community for Graphical Modeling and Causal Inference
+2nd Conference on Research Data Infrastructure. Aachen (09/2025)
+
+#### Adaptive Experimental Design for Optimal Causal Effect Estimation
+11th world congress for statistics and probability. Bochum (08/2024)
+
+#### Nonparametric Causal Effect Estimation of Guideline Interventions
+StatML Summer School. Oxford (08/2023)
+
+#### Nonparametric Causal Effect Estimation of Guideline Interventions
+AI-Bay Conference. Munich (02/2023)
+

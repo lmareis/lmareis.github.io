@@ -1,0 +1,15 @@
+{
+  "hash": "59b14c1331e74b98cfa0977f9a114257",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Good Eats\"\ntwitter:\n  creator: \"@JohnHelveston\"\npreview: images/john_china_duck.jpg\nexecute: \n  echo: false\n  warning: false\n---\n\n\n::: {.cell}\n\n:::\n\n\nMap of some real good eats\n\n<iframe src=\"https://www.google.com/maps/d/embed?mid=12qcVGJCO3EihNqxfYBTJ9Vv37mw&ehbc=2E312F\" width=\"800\" height=\"600\"></iframe>\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

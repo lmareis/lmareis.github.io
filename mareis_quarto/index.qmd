@@ -1,0 +1,31 @@
+---
+title: "Leopold Mareis"
+subtitle: "Mathematical Statistician"
+image: "images/Mareis_picture_4.jpeg"
+execute: 
+  echo: false
+  warning: false
+about:
+  template: trestles
+  links:
+    - text: '<i class="ai ai-cv fa-lg"></i>'
+      href: cv.qmd
+    - icon: github
+      href: https://github.com/lmareis
+    - icon: linkedin
+      href: https://linkedin.com/in/leopold-mareis-a0a258308
+    - text: '<i class="ai ai-orcid fa-lg"></i>'
+      href: https://orcid.org/0000-0002-2624-6522
+---
+
+```{r setup}
+source("_common.R")
+```
+
+### About
+
+I’m a final year PhD student in Mathematics at the chair of Mathematical Statistics at TUM. I am very fortunate to be supervised by [Mathias Drton](https://www.math.cit.tum.de/math/personen/professuren/drton-mathias/) and funded through [MaRDI](https://www.mardi4nfdi.de/about/mission). 
+
+Before, I was a researcher at the [Fraunhofer Institute for Cognitive Systems IKS](https://www.iks.fraunhofer.de/en.html) in the group for _Reasoned AI Decisions_ under the director [Mario Trapp](https://www.iks.fraunhofer.de/de/institut/institutsleitung/mario-trapp.html).
+
+My research focuses on efficient estimation of causal effects through graphical modeling, with a strong emphasis on practical applicability. My perspective has been shaped by collaborations in medicine, the social sciences, and industry.
