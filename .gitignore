@@ -12,3 +12,6 @@ Gemfile.lock
 node_modules
 package-lock.json
 .Rproj.user
+
+/.quarto/
+**/*.quarto_ipynb
