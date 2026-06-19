@@ -4,45 +4,45 @@ format: html
 
 # Oral
 
-#### Graphical Modeling with Symbolic Algebra in OSCAR.jl
-JuliaCon 2026. Frankfurt (08/2026)
+**JuliaCon 2026. Frankfurt (08/2026)** \
+Graphical Modeling with Symbolic Algebra in OSCAR.jl \
+[Poster](content/Cost_aware_exerimental_design_slides_mareis_2026.pdf)
 
-#### Cost-Aware Optimized Front-Door Experimental Design
-IMS Annual Meeting. Salzburg (07/2026)
+**IMS Annual Meeting. Salzburg (07/2026)** \
+Cost-Aware Optimized Front-Door Experimental Design
 
-#### Ontology for R language packages
-Statistical Computing 2025. Ulm (07/2025)
+**Statistical Computing 2025. Ulm (07/2025)** \
+Ontology for R language packages
 
-#### Counterfactual decision support for the control of a clinical, multi-organ failure ICU machine
-Bitkom - AI & Data Summit. Berlin (08/2024)
+**Bitkom - AI & Data Summit. Berlin (08/2024)** \
+Counterfactual decision support for the control of a clinical, multi-organ failure ICU machine
 
-#### Graph Projections for Causal DAGs
-Doktorand:innentreffen der Stochastik. Heidelberg (08/2023)
+**Doktorand:innentreffen der Stochastik. Heidelberg (08/2023)** \
+Graph Projections for Causal DAGs
 
-#### Estimating Causal Effects of Stent Operations
-KI-Medtech. Munich (07/2023)
+**KI-Medtech. Munich (07/2023)** \
+Estimating Causal Effects of Stent Operations
 
-#### Nonparametric Causal Effect Estimation of Guideline Interventions
-ETH-UCPH-TUM Workshop. Reitenhaslach (10/2022)
+**ETH-UCPH-TUM Workshop. Reitenhaslach (10/2022)** \
+Nonparametric Causal Effect Estimation of Guideline Interventions
 
-#### Nonparametric Causal Effect Estimation
-Doktorand:innentreffen der Stochastik. Klagenfurt (08/2022)
-
+**Doktorand:innentreffen der Stochastik. Klagenfurt (08/2022)** \
+Nonparametric Causal Effect Estimation
 
 # Poster
 
-#### Cost-Aware Optimized Front-Door Experimental Design
-Conference on Causal Learning and Reasoning CleAR 2026. Boston (04/2026)
+**Conference on Causal Learning and Reasoning CleAR 2026. Boston (04/2026)** \
+Cost-Aware Optimized Front-Door Experimental Design
 
-#### MaRDI’s Zenodo Community for Graphical Modeling and Causal Inference
-2nd Conference on Research Data Infrastructure. Aachen (09/2025)
+**2nd Conference on Research Data Infrastructure. Aachen (09/2025)** \
+MaRDI’s Zenodo Community for Graphical Modeling and Causal Inference
 
-#### Adaptive Experimental Design for Optimal Causal Effect Estimation
-11th world congress for statistics and probability. Bochum (08/2024)
+**11th world congress for statistics and probability. Bochum (08/2024)** \
+Adaptive Experimental Design for Optimal Causal Effect Estimation
 
-#### Nonparametric Causal Effect Estimation of Guideline Interventions
-StatML Summer School. Oxford (08/2023)
+**StatML Summer School. Oxford (08/2023)** \
+Nonparametric Causal Effect Estimation of Guideline Interventions
 
-#### Nonparametric Causal Effect Estimation of Guideline Interventions
-AI-Bay Conference. Munich (02/2023)
+**AI-Bay Conference. Munich (02/2023)** \
+Nonparametric Causal Effect Estimation of Guideline Interventions
 
