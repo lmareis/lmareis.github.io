@@ -10,29 +10,34 @@ h4 a {
 # Publications
 
 #### Cost-Aware Optimized Front-Door Experimental Design 
-**Leopold Mareis**, Mathias Drton. *Accepted at CLeaR 2026* \
-[paper](https://arxiv.org/abs/2603.22024), [presentation](content/2026_Cost_aware_exerimental_design_presentation.pdf), [poster](content/2026_Cost_aware_exerimental_design_poster.pdf), [code](https://github.com/lmareis/Cost-Aware-Optimized-Front-Door-Experimental-Design), [notebook](https://st-mardi.quarto.pub/gmci/chapters/notebook_gallery/notebooks/Cost-Aware-Experimental-Design/notebook.html)
+**Leopold Mareis**, Mathias Drton. \
+*Accepted at CLeaR 2026* \
+[arXiv](https://arxiv.org/abs/2603.22024), [presentation](content/2026_Cost_aware_exerimental_design_presentation.pdf), [poster](content/2026_Cost_aware_exerimental_design_poster.pdf), [code](https://github.com/lmareis/Cost-Aware-Optimized-Front-Door-Experimental-Design), [notebook](https://st-mardi.quarto.pub/gmci/chapters/notebook_gallery/notebooks/Cost-Aware-Experimental-Design/notebook.html)
 
 
 #### MaRDI’s Zenodo Community for Graphical Modeling and Causal Inference 
 **Leopold Mareis**, Stephan Haug, Mathias Drton \
+*2nd Conference on Research Data Infrastructure (CoRDI), 2025.* \
 [paper](https://doi.org/10.5281/zenodo.16736173), [poster](content/2025_CoRDI_poster.pdf), [website](https://st-mardi.quarto.pub/gmci/)
 
 
 #### Low-gradient magnetic separation in Biotechnology: Parameter identification and model-guided scale up 
 Jan-Angelus Meyer, Jennifer Pierick, **Leopold Mareis**, Dorian Röhring, Nathalie Opilo, Georg Garnweitner, Rainer Krull \
+*Separation and Purification Technology, 2025. vol. 379, part 1, art. no. 134836.* \
 [paper](https://www.sciencedirect.com/science/article/pii/S1383586625034331)
 
 #### Optimizing Experimental Design for Causal Effect Estimation with Partial Measurements
 **Leopold Mareis** \
+*Communications in Computer and Information Science, 2024, vol. 2200, pp. 74-85.* \
 [paper](https://link.springer.com/chapter/10.1007/978-981-97-7812-6_7), [presentation](content/2024_PCIC_presentation.pdf), [poster](content/2024_Bernoulli_Bochum_Poster.pdf)
 
 #### Development and certification of clinical AI software
 Narges Ahmidi, **Leopold Mareis** \
+*Medizintechnik, 2023, vol. 143, no. 3, pp. 13–16.* \
 [article](https://publica.fraunhofer.de/entities/publication/5002c770-388b-4fca-adfb-37f5b388bdfb)
 
 # Preprints
 
 #### Partially Specified Causal Simulations
 Alireza Zamanian, **Leopold Mareis**, Narges Ahmidi \
-[paper](https://arxiv.org/abs/2309.10514), [Python package](https://fraunhoferiks.github.io/parcs/)
+[arXiv](https://arxiv.org/abs/2309.10514), [Python package](https://fraunhoferiks.github.io/parcs/)
