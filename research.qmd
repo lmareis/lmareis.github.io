@@ -11,7 +11,7 @@ h4 a {
 
 #### Cost-Aware Optimized Front-Door Experimental Design 
 **Leopold Mareis**, Mathias Drton. *Accepted at CLeaR 2026* \
-[paper](https://arxiv.org/abs/2603.22024), [presentation](content/Cost_aware_exerimental_design_slides_mareis_2026.pdf), [poster](content/2026_Cost_aware_exerimental_design_poster.pdf)
+[paper](https://arxiv.org/abs/2603.22024), [presentation](content/2026_Cost_aware_exerimental_design_presentation.pdf), [poster](content/2026_Cost_aware_exerimental_design_poster.pdf)
 
 
 #### MaRDI’s Zenodo Community for Graphical Modeling and Causal Inference 
@@ -25,7 +25,7 @@ Jan-Angelus Meyer, Jennifer Pierick, **Leopold Mareis**, Dorian Röhring, Nathal
 
 #### Optimizing Experimental Design for Causal Effect Estimation with Partial Measurements
 **Leopold Mareis** \
-[paper](https://link.springer.com/chapter/10.1007/978-981-97-7812-6_7)
+[paper](https://link.springer.com/chapter/10.1007/978-981-97-7812-6_7), [presentation](content/2024_PCIC_presentation.pdf), [poster](content/2024_Bernoulli_Bochum_Poster.pdf)
 
 #### Development and certification of clinical AI software
 Narges Ahmidi, **Leopold Mareis** \
