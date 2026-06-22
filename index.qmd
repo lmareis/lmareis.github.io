@@ -8,8 +8,6 @@ execute:
 about:
   template: trestles
   links:
-    - text: '<i class="ai ai-cv fa-lg"></i>'
-      href: cv.qmd
     - icon: github
       href: https://github.com/lmareis
     - icon: linkedin
@@ -29,3 +27,5 @@ I’m a final year PhD student in Mathematics at the chair of Mathematical Stati
 Before, I was a researcher at the [Fraunhofer Institute for Cognitive Systems IKS](https://www.iks.fraunhofer.de/en.html) in the group for _Reasoned AI Decisions_ under the director [Mario Trapp](https://www.iks.fraunhofer.de/de/institut/institutsleitung/mario-trapp.html).
 
 My research focuses on efficient estimation of causal effects through graphical modeling, with a strong emphasis on practical applicability. My perspective has been shaped by collaborations in medicine, the social sciences, and industry.
+
+[Curriculum Vitae (04/2026)](content/CV_Mareis.pdf)

@@ -6,8 +6,6 @@ project:
     browser: true
   render:
     - "index.qmd"
-    - "about.qmd"
-    - "cv.qmd"
     - "research.qmd"
     - "teaching.qmd"
     - "presentations.qmd"
