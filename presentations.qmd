@@ -5,10 +5,10 @@ format: html
 # Oral
 
 **JuliaCon 2026. Frankfurt (08/2026)** \
-Graphical Modeling with Symbolic Algebra in OSCAR.jl \
+Graphical Modeling with Symbolic Algebra in OSCAR.jl 
 
 **IMS Annual Meeting. Salzburg (07/2026)** \
-Cost-Aware Optimized Front-Door Experimental Design
+Cost-Aware Optimized Front-Door Experimental Design \
 [Presentation](content/Cost_aware_exerimental_design_slides_mareis_2026.pdf)
 
 **Statistical Computing 2025. Ulm (07/2025)** \
@@ -32,7 +32,7 @@ Nonparametric Causal Effect Estimation
 # Poster
 
 **Conference on Causal Learning and Reasoning CleAR 2026. Boston (04/2026)** \
-Cost-Aware Optimized Front-Door Experimental Design
+Cost-Aware Optimized Front-Door Experimental Design \
 [Poster](content/Cost_aware_exerimental_design_slides_mareis_2026_poster.pdf)
 
 **2nd Conference on Research Data Infrastructure. Aachen (09/2025)** \
