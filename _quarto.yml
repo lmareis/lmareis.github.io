@@ -15,12 +15,13 @@ project:
     - "css"
     - "splitkbcompare.html"
     - "static/"
+    - "google4aa78ee6433c6ac9.html"
 
 website:
   title: "Leopold Mareis"
   description: "The personal website of Leopold Mareis"
   #image: images/lab/john_helveston_circle.png
- # site-url: https://www.jhelvy.com
+  site-url: "https://lmareis.github.io"
   favicon: favicon_blue.png
  # repo-url: https://github.com/jhelvy/jhelvy_quarto
   search:
