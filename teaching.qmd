@@ -1,6 +1,11 @@
 ---
 format: html 
 ---
+<style>
+h4 a {
+  display: none !important;
+}
+</style>
 
 # Teaching Assistant 
 
