@@ -19,11 +19,13 @@ project:
 
 website:
   title: "Leopold Mareis"
-  description: "The personal website of Leopold Mareis"
-  #image: images/lab/john_helveston_circle.png
+  description: "I am a final year PhD student at the chair of Mathematical Statistics at the Technical University of Munich (TUM), under the supervision of Prof. Mathias Drton."
+  open-graph:
+    title: "Leopold Mareis"
+    description: "I am a final year PhD student at the chair of Mathematical Statistics at the Technical University of Munich (TUM), under the supervision of Prof. Mathias Drton."
+    image: images/Mareis_picture_4.jpeg
   site-url: "https://lmareis.github.io"
   favicon: favicon_blue.png
- # repo-url: https://github.com/jhelvy/jhelvy_quarto
   search:
     location: navbar
     type: overlay
