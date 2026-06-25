@@ -14,6 +14,8 @@ about:
       href: https://linkedin.com/in/leopold-mareis-a0a258308
     - text: '<i class="ai ai-orcid fa-lg"></i>'
       href: https://orcid.org/0000-0002-2624-6522
+    - text: '<i class="ai ai-google-scholar fa-lg"></i>'
+      href: https://scholar.google.com/citations?hl=en&user=efey-4sAAAAJ&view_op=list_works&sortby=pubdate
 ---
 
 ```{r setup}
