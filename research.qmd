@@ -9,6 +9,11 @@ h4 a {
 
 # Publications
 
+#### Semiparametric Inference for Half-Trek Estimators in Linear Structural Equation Models
+**Leopold Mareis**, Nils Sturma, Mathias Drton. \
+*Under Submission* \
+[arXiv](https://arxiv.org/pdf/2606.26931)
+
 #### Cost-Aware Optimized Front-Door Experimental Design 
 **Leopold Mareis**, Mathias Drton. \
 *Accepted at CLeaR 2026* \
