@@ -41,7 +41,7 @@ Narges Ahmidi, **Leopold Mareis** \
 *Medizintechnik, 2023, vol. 143, no. 3, pp. 13–16.* \
 [article](https://publica.fraunhofer.de/entities/publication/5002c770-388b-4fca-adfb-37f5b388bdfb)
 
-# Preprints
+# Software
 
 #### Partially Specified Causal Simulations
 Alireza Zamanian, **Leopold Mareis**, Narges Ahmidi \
