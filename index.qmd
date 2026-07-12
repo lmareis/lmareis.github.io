@@ -30,7 +30,7 @@ Before, I was a researcher at the [Fraunhofer Institute for Cognitive Systems IK
 
 My research focuses on efficient estimation of causal effects through graphical modeling, with a strong emphasis on practical applicability. My perspective has been shaped by collaborations in medicine, the social sciences, and industry.
 
-[Curriculum Vitae (04/2026)](content/CV_Mareis.pdf)
+[Curriculum Vitae (06/2026)](content/CV_Mareis.pdf)
 
 ### Interest
 
