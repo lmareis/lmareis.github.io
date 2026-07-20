@@ -9,6 +9,9 @@ h4 a {
 
 # Oral
 
+#### Probabilistic Graphical Models (PGM) 2026. Valencia (09/2026)
+Semiparametric Inference for Half-Trek Estimators in Linear Structural Equation Models
+
 #### JuliaCon 2026. Frankfurt (08/2026)
 Graphical Modeling with Symbolic Algebra in OSCAR.jl 
 
