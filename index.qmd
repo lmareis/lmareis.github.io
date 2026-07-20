@@ -1,7 +1,7 @@
 ---
 title: "Leopold Mareis"
 subtitle: "Mathematical Statistician"
-image: "images/Mareis_Picture_square.jpeg"
+image: "images/Mareis_Picture_square.png"
 execute: 
   echo: false
   warning: false
