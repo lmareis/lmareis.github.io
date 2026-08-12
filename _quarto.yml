@@ -38,6 +38,8 @@ website:
         href: presentations.qmd
       - text: "Teaching"
         href: teaching.qmd
+      - text: "CV"
+        href: content/CV_Mareis.pdf
   page-footer:
     left: 
       - text: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="images/by-nc-sa.png" alt="CC BY-NC-SA 4.0" style="height:25px; vertical-align:top;"></a> 
