@@ -12,12 +12,12 @@ h4 a {
 #### Semiparametric Inference for Half-Trek Estimators in Linear Structural Equation Models
 **Leopold Mareis**, Nils Sturma, Mathias Drton. \
 *Accepted at [PGM 2026](https://www.uv.es/pgm2026/)* \
-[arXiv](https://arxiv.org/abs/2606.26931), [presentation](content/HTC_Estimation_presentation.pdf)
+[arXiv](https://arxiv.org/abs/2606.26931), [presentation](content/HTC_Estimation_presentation.pdf), [code](https://doi.org/10.5281/zenodo.21649507)
 
 #### Cost-Aware Optimized Front-Door Experimental Design 
 **Leopold Mareis**, Mathias Drton. \
-*Accepted at [CLeaR 2026](https://www.cclear.cc/2026)* \
-[arXiv](https://arxiv.org/abs/2603.22024), [presentation](content/2026_Cost_aware_exerimental_design_presentation.pdf), [poster](content/2026_Cost_aware_exerimental_design_poster.pdf), [code](https://github.com/lmareis/Cost-Aware-Optimized-Front-Door-Experimental-Design), [notebook](https://st-mardi.quarto.pub/gmci/chapters/notebook_gallery/notebooks/Cost-Aware-Experimental-Design/notebook.html)
+*5th conference on Causal Learning and Reasoning (CLeaR), 2026.* \
+[paper](https://proceedings.mlr.press/v323/mareis26a.html), [presentation](content/2026_Cost_aware_exerimental_design_presentation.pdf), [poster](content/2026_Cost_aware_exerimental_design_poster.pdf), [code](https://github.com/lmareis/Cost-Aware-Optimized-Front-Door-Experimental-Design), [notebook](https://st-mardi.quarto.pub/gmci/chapters/notebook_gallery/notebooks/Cost-Aware-Experimental-Design/notebook.html)
 
 
 #### MaRDI’s Zenodo Community for Graphical Modeling and Causal Inference 
